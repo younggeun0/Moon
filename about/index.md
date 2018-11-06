@@ -15,7 +15,7 @@ comments: false
 * <a href="https://github.com/younggeun0">young's github</a>
   * 동국대학교 멀티미디어공학과 졸업 2010.03-2018.08
   * 미래융합정보기술 인턴 2018.01-2018.06
-  * 쌍용교육센터 Python & Java 응용SW실무개발자 양성 과정 수료중 - 2019.05
+  * 쌍용교육센터 Python & Java 응용SW실무개발자 양성 과정 교육중 - 2019.05
 
 
 <hr/>
@@ -98,7 +98,7 @@ comments: false
 
 #### 쌍용정보교육원 (2018.10-진행중)
 
-* <a href="https://younggeun0.github.io/projects/">프로젝트 목록</a>
+[Python & Java 응용SW실무개발자 양성 과정 교육중](https://younggeun0.github.io/posts/)
 
 
 
