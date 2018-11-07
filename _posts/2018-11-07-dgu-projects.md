@@ -35,7 +35,6 @@ comments: true
 * <a href="https://youtu.be/b9rtqgmD2-E">시연 영상</a>
 
 
----
 
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256473-1b31f880-d4bc-11e8-951a-4eaf58babc80.JPG" height="200">
