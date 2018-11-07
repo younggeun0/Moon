@@ -71,6 +71,3 @@ comments: true
     <img src="https://user-images.githubusercontent.com/34850791/47256477-22f19d00-d4bc-11e8-8c35-e616140b4013.png" height="200">
     <img src="https://user-images.githubusercontent.com/34850791/47256478-238a3380-d4bc-11e8-9474-b9dbd9d29b6e.png" height="200">
 </center>
-
----
-
