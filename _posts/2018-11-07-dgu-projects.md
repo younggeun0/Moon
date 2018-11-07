@@ -2,7 +2,7 @@
 layout: post
 title: DGU(Dongguk University) Projects
 tags: [DGUProjects]
-excerpt: "동국대학교 교과진행 프로젝트들"
+excerpt: "~2018 대학 프로젝트들"
 project: true
 date: 2018-11-07
 comments: true
