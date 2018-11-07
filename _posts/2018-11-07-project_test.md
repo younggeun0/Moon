@@ -1,8 +1,9 @@
 ---
-layout: project
-title: 오라클 DBMS 정리 05
-tags: [오라클DBMS]
-excerpt: "ORACLE DBMS공부정리"
+layout: post
+title: DGU(Dongguk University) Projects
+tags: [DGUProjects]
+excerpt: "동국대학교 교과진행 프로젝트들"
+project: true
 date: 2018-11-07
 comments: true
 ---
