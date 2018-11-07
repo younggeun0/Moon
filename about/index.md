@@ -14,12 +14,12 @@ comments: false
 * 서울 강남구 논현동 거주
 * younggeun0@mme.dongguk.edu.com
 * <a href="https://github.com/younggeun0">young's github</a>
-  - 동국대학교 멀티미디어공학과 졸업
-    + 2010.03-2018.08
   - 미래융합정보기술 인턴
     + 2018.01-2018.06
+  - 동국대학교 멀티미디어공학과 졸업
+    + 2010.03-2018.08
   - 쌍용교육센터 Python & Java 응용SW실무개발자 양성 과정 교육중
-    + 오래 앉아있기 연습중
     + 2019.05 수료예정
+    + 오래 앉아있기 연습중
 
-<hr/>
+---
