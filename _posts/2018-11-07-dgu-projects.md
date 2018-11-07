@@ -25,6 +25,7 @@ comments: true
 </center>
 
 
+---
 
 #### 로보티즈 조립 자동차를 활용한 미로 탈출 (2017.09-2017.12)
 
@@ -34,6 +35,8 @@ comments: true
 * <a href="https://youtu.be/b9rtqgmD2-E">시연 영상</a>
 
 
+---
+
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256473-1b31f880-d4bc-11e8-951a-4eaf58babc80.JPG" height="200">
     <img src="https://user-images.githubusercontent.com/34850791/47256474-1bca8f00-d4bc-11e8-8092-42cfb6a2f0ad.JPG" height="200">
@@ -41,6 +44,7 @@ comments: true
     <img src="https://user-images.githubusercontent.com/34850791/47256472-1b31f880-d4bc-11e8-824e-7a10741a2e47.JPG" height="200">
 </center>
 
+---
 
 #### 물건공유 웹 사이트 (2018.03-2018.06)
 
@@ -54,6 +58,9 @@ comments: true
     <img src="https://user-images.githubusercontent.com/34850791/47256476-22f19d00-d4bc-11e8-982d-6d0ab3d2b4eb.png" height="200">
 </center>
 
+---
+
+
 #### 지방선거 결과 예측 프로젝트 (2018.03-2018.06)
 
 * Python, Spark, Raspberry Pi 사용
@@ -66,22 +73,5 @@ comments: true
     <img src="https://user-images.githubusercontent.com/34850791/47256478-238a3380-d4bc-11e8-9474-b9dbd9d29b6e.png" height="200">
 </center>
 
-<hr/>>
+---
 
-### **Toy Projects**
-
-#### To Do List Toy Project (2018.07)
-
-* JSP/Servlet, Oracle DB 사용
-* Java, JSP/Servlet MVC패턴 연습용 토이프로젝트
-* <a href="https://github.com/younggeun0/YonungsToDoList">github repository</a>
-
-
-<center>
-    <img src="https://user-images.githubusercontent.com/34850791/47256479-238a3380-d4bc-11e8-82c5-1a15f7aaa83f.png" height="340">
-    <img src="https://user-images.githubusercontent.com/34850791/47256480-238a3380-d4bc-11e8-92d5-884633079da3.png" height="340">
-</center>
-
-#### 쌍용정보교육원 (2018.10-진행중)
-
-[Python & Java 응용SW실무개발자 양성 과정 교육중](https://younggeun0.github.io/posts/)
