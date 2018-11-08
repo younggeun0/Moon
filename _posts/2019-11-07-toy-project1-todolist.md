@@ -10,6 +10,8 @@ comments: true
 
 ### **Toy Project1**
 
+---
+
 #### Young's To Do List(2018.07, 추후 보완예정)
 
 * JSP/Servlet, Oracle DB 사용
