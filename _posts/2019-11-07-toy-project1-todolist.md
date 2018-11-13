@@ -12,7 +12,7 @@ comments: true
 
 ---
 
-#### Young's To Do List(2018.07, 추후 보완예정)
+### Young's To Do List(2018.07, 추후 보완예정)
 
 * JSP/Servlet, Oracle DB 사용
 * Java, JSP/Servlet MVC패턴 연습용 토이프로젝트
