@@ -34,8 +34,6 @@ comments: true
 * RGB센서, 적외선센서, 절대거리센서 사용
 * <a href="https://youtu.be/b9rtqgmD2-E">시연 영상</a>
 
-
-
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256473-1b31f880-d4bc-11e8-951a-4eaf58babc80.JPG" height="200">
     <img src="https://user-images.githubusercontent.com/34850791/47256474-1bca8f00-d4bc-11e8-8092-42cfb6a2f0ad.JPG" height="200">
@@ -51,7 +49,6 @@ comments: true
 * 작은 커뮤니티 내 물건 공유를 위한 웹사이트
 * 회원가입, 공유/요청 글 게시판, 유저 간 교류 기능 구현
 
-
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256481-238a3380-d4bc-11e8-9416-d5250fad7f4e.JPG" height="200">
     <img src="https://user-images.githubusercontent.com/34850791/47256476-22f19d00-d4bc-11e8-982d-6d0ab3d2b4eb.png" height="200">
@@ -65,7 +62,7 @@ comments: true
 * Python, Spark, Raspberry Pi 사용
 * 지방선거 뉴스를 취합, 분석하여 결과를 예측했던 프로젝트
 * Python 뉴스 크롤러 구현, 모은 뉴스데이터를 Spark로 분석, Raspberry Pi로 출력
-
+* [gihub repository](https://github.com/younggeun0/localElectionPrediction)
 
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256477-22f19d00-d4bc-11e8-8c35-e616140b4013.png" height="200">
