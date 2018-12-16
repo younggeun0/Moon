@@ -8,7 +8,7 @@ date: 2018-12-16
 comments: true
 ---
 
-### Toy Project(Java SE)
+## BMI Checker, Lotto Random Number Generator
 
 ---
 
