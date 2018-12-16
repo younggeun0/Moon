@@ -2,7 +2,7 @@
 layout: post
 title: Toy Project(Java SE) - BMI Checker, Lotto
 tags: [ToyProject]
-excerpt: "Young's To Do List"
+excerpt: "BMI Checker, Lotto Random Number Generator"
 project: true
 date: 2018-12-16
 comments: true
@@ -29,7 +29,7 @@ comments: true
 
 ---
 
-### Young's To Do List(2018.07, 추후 보완예정)
+### Lotto Random Number Generator
 
 * Java SE 연습용 토이프로젝트
 * 로또 게임 수를 입력받으면 자동선택 결과를 출력해주는 프로그램
