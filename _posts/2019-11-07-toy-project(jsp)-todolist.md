@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toy Project1 - To Do List
+title: Toy Project(jsp) - To Do List
 tags: [ToyProject]
 excerpt: "Young's To Do List"
 project: true
@@ -8,7 +8,7 @@ date: 2018-11-07
 comments: true
 ---
 
-### **Toy Project1**
+### Toy Project(jsp)
 
 ---
 
