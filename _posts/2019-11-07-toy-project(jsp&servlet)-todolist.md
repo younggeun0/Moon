@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toy Project(jsp) - To Do List
+title: Toy Project(Jsp & Servlet) - To Do List
 tags: [ToyProject]
 excerpt: "Young's To Do List"
 project: true
