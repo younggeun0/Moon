@@ -5,7 +5,7 @@ date: 2018-10-17
 comments: false
 ---
 
-![profile_img](https://github.com/younggeun0/younggeun0.github.io/blob/master/assets/img/profile.jpg?raw=true)
+![profile_img](https://github.com/younggeun0/younggeun0.github.io/blob/master/assets/img/profile2.jpg?raw=true)
 
 ### **About YOUNG**
 
