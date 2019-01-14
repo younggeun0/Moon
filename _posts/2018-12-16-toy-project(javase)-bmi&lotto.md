@@ -17,6 +17,7 @@ comments: true
 * Java SE 연습용 토이프로젝트
 * 키와 몸무게를 입력받고 BMI 결과를 출력하는 간단한 프로그램
 * Console 구현 -> AWT를 이용한 구현 -> Swing을 이용한 구현
+  * JDBC 사용하여 기록 저장, 불러오기 구현
 * [github repository](https://github.com/younggeun0/toyProjectBMI)
 
 
@@ -24,7 +25,10 @@ comments: true
 
 ![awt](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi03.png?raw=true)
 
-![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi11.png?raw=true)
+
+![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi20.png)
+
+![jdbc](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi26.png)
 
 
 ---
@@ -34,8 +38,8 @@ comments: true
 * Java SE 연습용 토이프로젝트
 * 로또 게임 수를 입력받으면 자동선택 결과를 출력해주는 프로그램
 * BMI와 동일하게 Console 구현 -> AWT 구현 -> Swing 구현
+  * JDBC 사용 지난 당첨결과 조회 구현
 * [github repository](https://github.com/younggeun0/toyProjectLotto)
-
 
 ![console](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto01.PNG?raw=true)
 
@@ -46,3 +50,6 @@ comments: true
 ![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto11.png?raw=true)
 
 ![swing result](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto15.png?raw=true)
+
+![jdbc](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto18.png?raw=true)
+
