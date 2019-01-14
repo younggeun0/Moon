@@ -20,11 +20,11 @@ comments: true
 * [github repository](https://github.com/younggeun0/toyProjectBMI)
 
 
-![console](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi01.PNG?raw=true)
+![console](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi01.PNG?raw=true)
 
-![awt](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi03.png?raw=true)
+![awt](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi03.png?raw=true)
 
-![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi11.png?raw=true)
+![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi11.png?raw=true)
 
 
 ---
@@ -37,12 +37,12 @@ comments: true
 * [github repository](https://github.com/younggeun0/toyProjectLotto)
 
 
-![console](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto01.PNG?raw=true)
+![console](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto01.PNG?raw=true)
 
-![awt](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto04.png?raw=true)
+![awt](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto04.png?raw=true)
 
-![awt result](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto09.png?raw=true)
+![awt result](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto09.png?raw=true)
 
-![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto11.png?raw=true)
+![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto11.png?raw=true)
 
-![swing result](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto15.png?raw=true)
+![swing result](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto15.png?raw=true)
