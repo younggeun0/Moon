@@ -2,9 +2,9 @@
 layout: post
 title: Toy Project - Java SE
 tags: [ToyProject]
-excerpt: "BMI Checker, Lotto Random Number Generator"
+excerpt: "BMI지수 계산기, Lotto번호 생성기, 뒤집어라 엎어라, 멀티 채팅"
 project: true
-date: 2018-12-16
+date: 2019-01-14
 comments: true
 ---
 
@@ -16,6 +16,7 @@ comments: true
 
 * Java SE 연습용 토이프로젝트
 * 키와 몸무게를 입력받고 BMI 결과를 출력하는 간단한 프로그램
+  * 조회기록은 저장, 파일출력, 불러오기 가능
 * [github repository](https://github.com/younggeun0/toyProjectBMI)
 
 ![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi20.png)
@@ -28,6 +29,7 @@ comments: true
 
 * Java SE 연습용 토이프로젝트
 * 로또 게임 수를 입력받으면 자동선택 결과를 출력해주는 프로그램
+  * 지난 회차에 대한 정보를 조회 가능
 * [github repository](https://github.com/younggeun0/toyProjectLotto)
 
 ![swing](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/lotto/lotto11.png?raw=true)
