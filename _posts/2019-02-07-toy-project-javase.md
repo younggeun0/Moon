@@ -2,7 +2,7 @@
 layout: post
 title: Toy Project - Java SE
 tags: [ToyProject]
-excerpt: "Java SE를 활용한 토이 프로젝트들"
+excerpt: "Java SE 토이 프로젝트들"
 project: true
 date: 2019-02-07
 comments: true
