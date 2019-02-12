@@ -3,10 +3,10 @@ pre.highlight {
 }
 
 .highlight {
-	background-color: #49483e;
+	background-color: #282C34;
 	font-family: $font2;
 	@include font-size(14);
-	color: #E06C75;
+	color: #f8f8f2;
 	border-radius: 4px;
 	pre {
 		position: relative;
@@ -19,7 +19,7 @@ pre.highlight {
 	.err               { color: #E06C75; } 													 /* Error 변경                     */
 	.k                 { color: #C678DD }                            /* Keyword                     */
 	.l                 { color: #D19A66 }                            /* Literal                     */
-	.n                 { color: #E06C75 }                            /* Name                        */
+	.n                 { color: #f8f8f2 }                            /* Name                        */
 	.o                 { color: #ABB2BF }                            /* Operator                    */
 	.p                 { color: #E06C75 }                            /* Punctuation                 */
 	.cm                { color: #5C6370 }                            /* Comment.Multiline           */
