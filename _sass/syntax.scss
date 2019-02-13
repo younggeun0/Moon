@@ -43,7 +43,7 @@ pre.highlight {
 	.no                { color: #C678DD }                            /* Name.Constant               */
 	.nd                { color: #61AFEF }                            /* Name.Decorator              */
 	.ni                { color: #E06C75 }                            /* Name.Entity                 */
-	.ne                { color: #E5C07B }                            /* Name.Exception              */
+	.ne                { color: #E06C75 }                            /* Name.Exception              */
 	.nf                { color: #61AFEF }                            /* Name.Function               */
 	.nl                { color: #ABB2BF }                            /* Name.Label                  */
 	.nn                { color: #61AFEF }                            /* Name.Namespace              */
@@ -61,16 +61,16 @@ pre.highlight {
 	.sc                { color: #98C379 }                            /* Literal.String.Char         */
 	.sd                { color: #98C379 }                            /* Literal.String.Doc          */
 	.s2                { color: #98C379 }                            /* Literal.String.Double       */
-	.se                { color: #D19A66 }                            /* Literal.String.Escape       */
+	.se                { color: #56A99B }                            /* Literal.String.Escape       */
 	.sh                { color: #98C379 }                            /* Literal.String.Heredoc      */
 	.si                { color: #98C379 }                            /* Literal.String.Interpol     */
 	.sx                { color: #98C379 }                            /* Literal.String.Other        */
 	.sr                { color: #98C379 }                            /* Literal.String.Regex        */
 	.s1                { color: #98C379 }                            /* Literal.String.Single       */
 	.ss                { color: #98C379 }                            /* Literal.String.Symbol       */
-	.bp                { color: #ABB2BF }                            /* Name.Builtin.Pseudo         */
-	.vc                { color: #ABB2BF }                            /* Name.Variable.Class         */
-	.vg                { color: #ABB2BF }                            /* Name.Variable.Global        */
+	.bp                { color: #61AFEF }                            /* Name.Builtin.Pseudo         */
+	.vc                { color: #E06C75 }                            /* Name.Variable.Class         */
+	.vg                { color: #E06C75 }                            /* Name.Variable.Global        */
 	.vi                { color: #ABB2BF }                            /* Name.Variable.Instance      */
 	.il                { color: #D19A66 }                            /* Literal.Number.Integer.Long */
 }
