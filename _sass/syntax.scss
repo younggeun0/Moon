@@ -46,11 +46,11 @@ pre.highlight {
 	.ne                { color: #E5C07B }                            /* Name.Exception              */
 	.nf                { color: #61AFEF }                            /* Name.Function               */
 	.nl                { color: #ABB2BF }                            /* Name.Label                  */
-	.nn                { color: #D19A66 }                            /* Name.Namespace              */
+	.nn                { color: #61AFEF }                            /* Name.Namespace              */
 	.nx                { color: #ABB2BF }                            /* Name.Other                  */
 	.py                { color: #E06C75 }                            /* Name.Property               */
 	.nt                { color: #E06C75 }                            /* Name.Tag                    */
-	.nv                { color: #ABB2BF }                            /* Name.Variable               */
+	.nv                { color: #E06C75 }                            /* Name.Variable               */
 	.ow                { color: #E06C75 }                            /* Operator.Word               */
 	.w                 { color: #ABB2BF }                            /* Text.Whitespace             */
 	.mf                { color: #D19A66 }                            /* Literal.Number.Float        */
