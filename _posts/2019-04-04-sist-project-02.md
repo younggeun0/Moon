@@ -47,12 +47,12 @@ comments: true
 ## DB 설계
 
 * **ERD 논리모델**
-  
-![논리모델](https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%85%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG)
+
+<img src="https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%85%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG?raw=true"/>
 
 * **ERD 물리모델**
 
-![물리모델](https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%AC%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG)
+<img src="https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%AC%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG)"/>
 
 ## 클래스 다이어그램
 
@@ -78,14 +78,14 @@ comments: true
 * [일반사용자](https://vimeo.com/323614169)
 * [기업사용자](https://vimeo.com/323645877 )
 
-## 시연 GIF - 관리자
+## 시연 - 관리자
 
 ![관리자 시연](https://github.com/younggeun0/1949/blob/master/05.%EC%8B%9C%EC%97%B0/admin.gif?raw=true)
 
-## 시연 GIF - 일반사용자
+## 시연 - 일반사용자
 
 ![일반사용자 시연](https://github.com/younggeun0/1949/blob/master/05.%EC%8B%9C%EC%97%B0/ee_user.gif?raw=true)
 
-## 시연 GIF - 기업사용자
+## 시연 - 기업사용자
 
 ![기업사용자 시연](https://github.com/younggeun0/1949/blob/master/05.%EC%8B%9C%EC%97%B0/er_user.gif?raw=true)
