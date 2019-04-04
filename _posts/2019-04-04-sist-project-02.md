@@ -52,7 +52,7 @@ comments: true
 
 * **ERD 물리모델**
 
-<img src="https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%AC%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG)"/>
+<img src="https://github.com/younggeun0/1949/blob/master/02.%EC%84%A4%EA%B3%84/ERD_%EB%AC%BC%EB%A6%AC%EB%AA%A8%EB%8D%B8(%ED%99%95%EC%A0%95).PNG?raw=true"/>
 
 ## 클래스 다이어그램
 
