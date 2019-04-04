@@ -2,13 +2,13 @@
 layout: post
 title: SIST Project 01 - 로그 분석 Java 프로그램
 tags: [SISTProject]
-excerpt: "로그 분석 Java 프로그램"
+excerpt: "🐥 로그 분석 Java 프로그램"
 project: true
 date: 2019-02-07
 comments: true
 ---
 
-# SIST Project 01 - 로그 분석 Java 프로그램
+# SIST Project 01 - 🐥 로그 분석 Java 프로그램
 
 * [Github Repository](https://github.com/younggeun0/logAnalysisApp)
 
@@ -53,8 +53,6 @@ comments: true
   * **kimkunha**
     * key 로그처리, 테스팅
 
-
-
 ## 최종 결과물
 
 ![01](https://github.com/younggeun0/logAnalysisApp/blob/master/img/completion/01.png?raw=true)
@@ -69,3 +67,6 @@ comments: true
 
 ![06](https://github.com/younggeun0/logAnalysisApp/blob/master/img/completion/06.png?raw=true)
 
+## 시연
+
+![시연](https://github.com/younggeun0/logAnalysisApp/blob/master/first_team.gif?raw=true)
