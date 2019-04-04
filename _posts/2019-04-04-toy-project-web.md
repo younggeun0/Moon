@@ -27,6 +27,7 @@ comments: true
 * 기본적인 회원가입, 로그인 기능을 구현한 토이프로젝트
 * [Github Repository](https://github.com/younggeun0/webSimpleLogin)
 
+![01](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/01.png?raw=true)
 
 ## 📰 뉴스 속보
 
