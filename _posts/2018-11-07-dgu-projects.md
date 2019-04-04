@@ -2,13 +2,13 @@
 layout: post
 title: DGU(Dongguk University) Projects
 tags: [DGUProjects]
-excerpt: "~2018 대학 프로젝트들"
+excerpt: "~2018 👨‍🎓 대학 프로젝트들"
 project: true
 date: 2018-11-07
 comments: true
 ---
 
-# **DGU(Dongguk University) Projects**
+# **👨‍🎓 DGU(Dongguk University) Projects**
 ## 로잉머신을 활용한 안드로이드 3D 유니티 게임 (2017.09-2017.12)
 
 * Unity, Android Studio 사용
