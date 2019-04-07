@@ -12,7 +12,7 @@ comments: true
 
 * [Github Repository](https://github.com/younggeun0/1949)
 * **일 구하고 사람 구하고**
-  * **개발자 구인구직 버티컬 서비스 자바**
+  * **개발자 구인구직 버티컬 서비스**
   * **JAVA SE CS 프로그래밍, Network, JDBC, Thread를 사용한 프로젝트**
   * 제작기간 한달 (2019.02.15~2019.03.15)
 
