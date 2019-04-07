@@ -10,8 +10,6 @@ comments: true
 
 # 🤖 Web Toy Projects
 
----
-
 ## ✔ 웹 심플 로그인 
 
 * 기본적인 회원가입, 로그인 기능을 구현한 토이프로젝트
@@ -21,7 +19,8 @@ comments: true
 
 ![02](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/02.gif?raw=true)
 
----
+<br/>
+<br/>
 
 ## ☑ Young's To Do List
 
@@ -31,7 +30,8 @@ comments: true
 
 ![03](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/toDoList/03.gif?raw=true)
 
----
+<br/>
+<br/>
 
 ## 📰 뉴스 속보
 

@@ -25,7 +25,8 @@ comments: true
 
 ![시연](https://github.com/younggeun0/BMIChecker/blob/master/bmi.gif?raw=true)
 
----
+<br/>
+<br/>
 
 ## 💰 Lotto Random Number Generator
 
@@ -41,7 +42,8 @@ comments: true
 
 ![시연](https://github.com/younggeun0/lotto645/blob/master/lotto645.gif?raw=true)
 
----
+<br/>
+<br/>
 
 ## 🖐️ 뒤집어라 엎어라
 
@@ -51,7 +53,10 @@ comments: true
 
 ![dedenjji](https://github.com/younggeun0/dedenjji/raw/master/img/impl.png?raw=true)
 
----
+
+<br/>
+<br/>
+
 
 ## 📣 조별 멀티 채팅 프로그램
 
@@ -61,7 +66,8 @@ comments: true
 
 ![multichat](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/multichat/05.png?raw=true)
 
----
+<br/>
+<br/>
 
 ## ✔ 심플 로그인 
 
@@ -74,7 +80,8 @@ comments: true
 
 ![simpleLogin3](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/simpleLogin/11.png?raw=true)
 
----
+<br/>
+<br/>
 
 ## 👨‍🏫 작명소
 
@@ -86,7 +93,8 @@ comments: true
 
 ![시연](https://github.com/younggeun0/namingOffice/blob/master/naming_office.gif?raw=true)
 
----
+<br/>
+<br/>
 
 ## 📇 명함첩 토이 프로젝트
 
@@ -99,7 +107,8 @@ comments: true
 
 ![bc3](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/BCH/11.png?raw=true)
 
----
+<br/>
+<br/>
 
 ## 👨‍🏫 자소서 글자수 카운터
 
