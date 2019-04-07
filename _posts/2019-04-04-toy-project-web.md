@@ -29,7 +29,7 @@ comments: true
 
 ![01](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/01.png?raw=true)
 
-![02](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/02.png?raw=true)
+![02](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/02.gif?raw=true)
 
 
 
