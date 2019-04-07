@@ -10,16 +10,6 @@ comments: true
 
 # 🤖 Web Toy Projects
 
-## ☑ Young's To Do List
-
-* Model2 연습용 토이프로젝트
-* [Github repository](https://github.com/younggeun0/YonungsToDoList)
-
-<center>
-    <img src="https://user-images.githubusercontent.com/34850791/47256479-238a3380-d4bc-11e8-82c5-1a15f7aaa83f.png" height="340">
-    <img src="https://user-images.githubusercontent.com/34850791/47256480-238a3380-d4bc-11e8-92d5-884633079da3.png" height="340">
-</center>
-
 
 ## ✔ 웹 심플 로그인 
 
@@ -30,6 +20,15 @@ comments: true
 
 ![02](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/02.gif?raw=true)
 
+## ☑ Young's To Do List
+
+* 할일 목록을 저장하는 To Do List 토이 프로젝트
+* Bootstrap, MyBatis 사용, Model2 적용
+* [Github repository](https://github.com/younggeun0/YonungsToDoList)
+
+## 시연
+
+![03](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/toDoList/03.gif?raw=true)
 
 
 ## 📰 뉴스 속보
