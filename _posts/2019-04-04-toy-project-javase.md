@@ -23,8 +23,9 @@ comments: true
 ![jdbc](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/bmi/bmi26.png)
 
 
-![](https://github.com/younggeun0/BMIChecker/blob/master/bmi.gif?raw=true)
+![시연](https://github.com/younggeun0/BMIChecker/blob/master/bmi.gif?raw=true)
 
+---
 
 ## 💰 Lotto Random Number Generator
 
@@ -40,6 +41,7 @@ comments: true
 
 ![시연](https://github.com/younggeun0/lotto645/blob/master/lotto645.gif?raw=true)
 
+---
 
 ## 🖐️ 뒤집어라 엎어라
 
@@ -49,6 +51,7 @@ comments: true
 
 ![dedenjji](https://github.com/younggeun0/dedenjji/raw/master/img/impl.png?raw=true)
 
+---
 
 ## 📣 조별 멀티 채팅 프로그램
 
@@ -58,6 +61,7 @@ comments: true
 
 ![multichat](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/multichat/05.png?raw=true)
 
+---
 
 ## ✔ 심플 로그인 
 
@@ -70,6 +74,8 @@ comments: true
 
 ![simpleLogin3](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/simpleLogin/11.png?raw=true)
 
+---
+
 ## 👨‍🏫 작명소
 
 * 시대별 가장 흔한 이름 10선을 DB을 사용
@@ -79,6 +85,8 @@ comments: true
 ![namingOffice](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/NOF/04.png?raw=true)
 
 ![시연](https://github.com/younggeun0/namingOffice/blob/master/naming_office.gif?raw=true)
+
+---
 
 ## 📇 명함첩 토이 프로젝트
 
@@ -91,14 +99,13 @@ comments: true
 
 ![bc3](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/BCH/11.png?raw=true)
 
+---
 
 ## 👨‍🏫 자소서 글자수 카운터
 
 * 자기소개서 글자수를 세기위해 만든 간단한 프로그램
 * [Github Repository](https://github.com/younggeun0/WordCounter)
   
-### 시연
-
 ![03](https://github.com/younggeun0/WordCounter/blob/master/word_counter.gif?raw=true)
 
 

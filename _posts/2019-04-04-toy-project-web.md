@@ -10,6 +10,7 @@ comments: true
 
 # 🤖 Web Toy Projects
 
+---
 
 ## ✔ 웹 심플 로그인 
 
@@ -20,16 +21,17 @@ comments: true
 
 ![02](https://github.com/younggeun0/younggeun0.github.io/raw/master/_posts/img/toyProjects/webSimpleLogin/02.gif?raw=true)
 
+---
+
 ## ☑ Young's To Do List
 
 * 할일 목록을 저장하는 To Do List 토이 프로젝트
 * Bootstrap, MyBatis 사용, Model2 적용
 * [Github repository](https://github.com/younggeun0/YonungsToDoList)
 
-## 시연
-
 ![03](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/toDoList/03.gif?raw=true)
 
+---
 
 ## 📰 뉴스 속보
 
