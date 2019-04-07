@@ -12,9 +12,8 @@ comments: true
 
 ## ☑ Young's To Do List
 
-* JSP/Servlet, Oracle DB 사용
-* Java, JSP/Servlet MVC패턴 연습용 토이프로젝트
-* [github repository](https://github.com/younggeun0/YonungsToDoList)
+* Model2 연습용 토이프로젝트
+* [Github repository](https://github.com/younggeun0/YonungsToDoList)
 
 <center>
     <img src="https://user-images.githubusercontent.com/34850791/47256479-238a3380-d4bc-11e8-82c5-1a15f7aaa83f.png" height="340">
