@@ -41,3 +41,10 @@ comments: true
 ![02](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/BreakingNews/02.png?raw=true)
 
 
+## 🍚점심 메뉴 선택기
+
+* Bootstrap, MyBatis, 카카오 지도 API 사용
+* DB에 등록된 전체 밥집 수를 카운트, 랜덤한 밥집을 선택후 결과 출력
+* [Github repository](https://github.com/younggeun0/LunchSelector)
+
+![03](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/lunchSelector/03.gif?raw=true)
