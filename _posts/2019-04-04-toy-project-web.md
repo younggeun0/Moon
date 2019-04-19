@@ -4,7 +4,7 @@ title: Toy Projects - Web
 tags: [ToyProject]
 excerpt: " 🤖 Web Toy Projects"
 project: true
-date: 2019-04-04
+date: 2019-04-19
 comments: true
 ---
 
@@ -50,3 +50,15 @@ comments: true
 * [Github repository](https://github.com/younggeun0/LunchSelector)
 
 ![03](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/lunchSelector/03.gif?raw=true)
+
+<br/>
+<br/>
+
+# 📌 간단 게시판
+
+* Spring framework, MyBatis를 이용한 간단 게시판
+* 글 등록, 조회 기능 구현
+  * 게시판 페이징 연습용 토이프로젝트
+*[Github repository](https://github.com/younggeun0/simpleBoard)
+
+![04](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/simpleBoard/04.gif?raw=true)
