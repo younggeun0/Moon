@@ -59,6 +59,6 @@ comments: true
 * Spring framework, MyBatis를 이용한 간단 게시판
 * 글 등록, 조회 기능 구현
   * 게시판 페이징 연습용 토이프로젝트
-*[Github repository](https://github.com/younggeun0/simpleBoard)
+* [Github repository](https://github.com/younggeun0/simpleBoard)
 
 ![04](https://github.com/younggeun0/younggeun0.github.io/blob/master/_posts/img/toyProjects/simpleBoard/04.gif?raw=true)
