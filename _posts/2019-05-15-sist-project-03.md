@@ -79,5 +79,3 @@ comments: true
 ### 관리자
 
 ![시연03](https://github.com/younggeun0/StudyStory/blob/master/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EC%8B%9C%EC%97%B003.gif?raw=true)
-
-
