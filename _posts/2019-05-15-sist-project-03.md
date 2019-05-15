@@ -10,7 +10,7 @@ comments: true
 
 # SIST Project 03 - 스터디 스토리📝
 
-* **SIST Web 3번째 Team Project**
+* **SIST 마지막 Team Project**
 * **스터디 커뮤니티 사이트**
   * 제작기간 약 두달 (2019.03 ~2019.05.15)
 * [Github Repository](https://github.com/younggeun0/StudyStory)
@@ -20,7 +20,7 @@ comments: true
 
 ## 업무분장
   * **younggeun0**
-    * 요구사항 정의, DB, UI, Class Diagram 설계, 로그인, 회원가입, 통합 등
+    * 요구사항 정의, DB, Class Diagram 설계, 로그인, 회원가입, 통합 등
   * **gkwl7878**
     * 모든 관리자 페이지 
   * **jeongmipark94**
