@@ -10,8 +10,6 @@ comments: false
 ### **About YOUNG**
 
 * 오영근
-* 90년 12월생
-* 서울 거주
 * younggeun0@mme.dongguk.edu.com
 * <a href="https://github.com/younggeun0">young's github</a>
   - 미래융합정보기술 인턴
@@ -22,4 +20,5 @@ comments: false
     + 2018.10-2019.05
   - 포시에스 연구소
     + 2019.06~
+
 ---
