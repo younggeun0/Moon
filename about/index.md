@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 2018-10-17
+date: 2020-01-16
 comments: false
 ---
 
@@ -20,5 +20,6 @@ comments: false
     + 2010.03-2018.08
   - 쌍용교육센터 Python & Java 응용SW실무개발자 양성 과정
     + 2018.10-2019.05
-
+  - 포시에스 연구소
+    + 2019.06~
 ---
